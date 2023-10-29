@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    background: #1c2b35;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 80px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+}
